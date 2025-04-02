@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 这是main分支上的新修改
+=======
+这是rebase分支上的修改1
+这是rebase分支上的修改2
+>>>>>>> feature-rebase
